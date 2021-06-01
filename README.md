@@ -29,3 +29,6 @@
  ✔ 한눈에 보기
 <link>https://jeongdev55.tistory.com/26</link>
 
+## 6단계 문제 풀이
+ ✔ 한눈에 보기
+<link>https://jeongdev55.tistory.com/27</link>
